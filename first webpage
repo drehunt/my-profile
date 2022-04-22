@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>repl.it</title>
+  </head>
+  <body>
+      <div>
+          <h1>Andre Hunter</h1>
+          <h2>Software Developer</h2>
+          <hr>
+          <p>This programming journey is to allow for more time and resources to put toward my art</p>
+          <h3>My Projects</h3>
+          <p>Coming Soon</p>
+          <h3>About me</h3>
+          <p>I'm baby before they sold out fam meditation bespoke chambray. Pitchfork sustainable normcore meditation ennui, tbh direct trade taxidermy yr distillery health goth tattooed beard hexagon. Helvetica jianbing tumblr seitan pop-up. Hella single-origin coffee pinterest flannel, leggings try-hard scenester everyday carry pitchfork you probably haven't heard of them microdosing aesthetic pour-over tilde. Skateboard pug +1, tilde gochujang 3 wolf moon photo booth lyft disrupt viral artisan cloud bread pok pok taxidermy. Chia godard direct trade live-edge cloud bread. Hot chicken small batch crucifix disrupt locavore flexitarian taxidermy.</p>
+          <h3>Contact Me</h3>
+          <p>righton@gmail.com</p>
+          <p>626.xxx.xxxx</p>
+      </div>
+	
+  </body>
+</html>
